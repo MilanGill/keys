@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0d4dbeb-b37b-48bf-b1e8-456a6a6121a6" name="Changes" comment="Dependency Injection part 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/likesoft24/FuckMusic.java" afterDir="false" />
+    <list default="true" id="a0d4dbeb-b37b-48bf-b1e8-456a6a6121a6" name="Changes" comment="Dependency Injection HomeWork">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/likesoft24/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likesoft24/ClassicalMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/likesoft24/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likesoft24/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/likesoft24/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likesoft24/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674751555497</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Dependency Injection HomeWork">
+      <created>1675283302309</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675283302309</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -114,6 +122,7 @@
     <MESSAGE value="Second Commit with Inversion of Control" />
     <MESSAGE value="Dependency Injection part 1" />
     <MESSAGE value="Dependency Injection part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dependency Injection part 2" />
+    <MESSAGE value="Dependency Injection HomeWork" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dependency Injection HomeWork" />
   </component>
 </project>
