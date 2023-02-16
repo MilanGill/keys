@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0d4dbeb-b37b-48bf-b1e8-456a6a6121a6" name="Changes" comment="Dependency Injection HomeWork">
+    <list default="true" id="a0d4dbeb-b37b-48bf-b1e8-456a6a6121a6" name="Changes" comment="factory-Method, init-method, destroy-method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/likesoft24/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likesoft24/ClassicalMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/likesoft24/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likesoft24/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/likesoft24/FuckMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likesoft24/FuckMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/likesoft24/NeonMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likesoft24/NeonMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/likesoft24/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likesoft24/RockMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/likesoft24/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likesoft24/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
@@ -19,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -113,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675283302309</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="factory-Method, init-method, destroy-method">
+      <created>1675542901193</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675542901193</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,6 +133,7 @@
     <MESSAGE value="Dependency Injection part 1" />
     <MESSAGE value="Dependency Injection part 2" />
     <MESSAGE value="Dependency Injection HomeWork" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dependency Injection HomeWork" />
+    <MESSAGE value="factory-Method, init-method, destroy-method" />
+    <option name="LAST_COMMIT_MESSAGE" value="factory-Method, init-method, destroy-method" />
   </component>
 </project>

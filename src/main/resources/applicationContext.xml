@@ -7,36 +7,9 @@
         http://www.springframework.org/schema/context
         http://www.springframework.org/schema/context/spring-context.xsd">
 
+    <context:component-scan base-package="com.likesoft24" />
+
     <context:property-placeholder location="classpath:musicPlayer.properties"/>
 
-    <bean id="musicBean1"
-          class="com.likesoft24.ClassicalMusic"
-          init-method = "doMyInit"
-          destroy-method="doMyDestroy"
-          factory-method="getClassicalMusic">
-    </bean>
-
-    <bean id="musicBean2"
-          class="com.likesoft24.RockMusic">
-    </bean>
-
-    <bean id="musicBean3"
-          class="com.likesoft24.FuckMusic">
-    </bean>
-
-    <bean id ="musicPlayer"
-          class ="com.likesoft24.MusicPlayer"
-          scope = "prototype">
-        <property name="musicList">
-            <list value-type="com.likesoft24.Music">
-                <ref bean="musicBean1"/>
-                <ref bean="musicBean2"/>
-                <ref bean="musicBean3"/>
-            </list>
-        </property>
-
-        <property name="name" value="${musicPlayer.name}"/>
-        <property name="volume" value="${musicPlayer.volume}"/>
-    </bean>
 
 </beans>
